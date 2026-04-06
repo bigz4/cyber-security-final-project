@@ -17,3 +17,6 @@ tqdm
 shap
 
 joblib
+
+lightgbm
+imbalanced-learn
